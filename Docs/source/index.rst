@@ -28,10 +28,10 @@ In addition, notebooks can be run on the following nodes:
 The choices and combinations used to run notebooks affect the security and efficiency of you application. In the next sections, we'll describe how to connect and how to run the notebooks and the security impacts of these configurations.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    methods/tunneling.md
-   methods/reverseProxy.md
+   methods/reverse-proxy/README.md
    examples.md
    prerequisites.md
    aboutus.md

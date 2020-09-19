@@ -1,0 +1,3 @@
+[submodule "Docs/source/methods/reverse-proxy"]
+	path = Docs/source/methods/reverse-proxy
+	url = https://github.com/sdsc-hpc-training-org/reverse-proxy
